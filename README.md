@@ -1,6 +1,6 @@
 # module-5
 
-All code by Ryan Dekker; Used pandas to merge and create dataframes. Included the required data visulaizations using PyPlot. 
+All code by Ryan Dekker; Used pandas to merge and create dataframes. Included the required data visulaizations using PyPlot, including bar, pie, box, and scatterplot. 
 
 When analyzing the data and the visualizations, trends do become apparent:
  
